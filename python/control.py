@@ -17,4 +17,4 @@ while True:
         time.sleep(0.5)
         print arduino.readline()
     else:
-        print "Неверная комманда"
+        print "Неверная комманда :)"
